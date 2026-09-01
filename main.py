@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 MNIST Identifier with Interactive Drawing Interface
 """
