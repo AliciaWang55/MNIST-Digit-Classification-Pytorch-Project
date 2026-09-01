@@ -1,8 +1,4 @@
-Using device: cpu
-100%|██████████| 9.91M/9.91M [00:00<00:00, 44.9MB/s]
-100%|██████████| 28.9k/28.9k [00:00<00:00, 1.00MB/s]
-100%|██████████| 1.65M/1.65M [00:00<00:00, 7.97MB/s]
-100%|██████████| 4.54k/4.54k [00:00<00:00, 9.55MB/s]
+
 No saved model found. Training model from scratch.
 Training Epoch 1/3
   Batch 0: Loss = 2.293074
