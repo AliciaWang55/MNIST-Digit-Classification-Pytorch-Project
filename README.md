@@ -1,4 +1,4 @@
-'''
+
 No saved model found. Training model from scratch.\
 Training Epoch 1/3\
   Batch 0: Loss = 2.293074\
@@ -36,4 +36,4 @@ Training Epoch 3/3\
 Saved model to mnist_cnn.pt\
 
 Test set: Average loss: 0.0337, Accuracy: 9890/10000 (98.90%)
-'''
+
