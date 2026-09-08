@@ -1,6 +1,6 @@
 '''
 No saved model found. Training model from scratch.
-Training Epoch 1/3
+Training Epoch 1/3\
   Batch 0: Loss = 2.293074
   Batch 100: Loss = 0.221297
   Batch 200: Loss = 0.304077
