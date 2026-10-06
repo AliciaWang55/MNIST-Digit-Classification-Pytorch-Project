@@ -57,9 +57,6 @@ def train_model(model, device, train_loader, optimizer, epochs, scheduler=None):
 
 
 # Testing Function
-# NOTE: This function was not visible in the source screenshots (lines 57-71
-# were missing). Reconstructed in the standard PyTorch MNIST-example style
-# to match the rest of the file -- verify against your original if you can.
 def test_model(model, device, test_loader):
     model.eval()
     test_loss = 0
